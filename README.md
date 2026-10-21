@@ -151,6 +151,4 @@ Local development is covered above. For production you can:
 - Vite + React for a fast frontend dev experience
 - Tailwind CSS for utility-first styling
 
----
-
 If you found this project helpful, please give it a star ⭐
